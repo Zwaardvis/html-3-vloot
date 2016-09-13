@@ -1,0 +1,129 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul.top-menu li
+
+{
+	display:inline;
+	margin-right:70px;
+
+}
+div.header
+{
+background-image:url(../css/grfx/header.jpg);
+height:269px;
+width:800px;
+margin-left:auto;
+margin-right:auto;
+text-align: left;
+}
+
+body
+{
+	background-image: url(../css/grfx/bg.png);
+	background-repeat:repeat-x;
+	font-size: 14px
+}
+
+
+
+ul.top-menu
+{
+		margin-top:145px;
+		margin-right:90px;
+		color:white;
+		padding:5px;
+		padding-top: 20px
+
+	}
+
+div.inhoud
+{
+height:450px;
+width:760px;
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+background-color:white;
+padding-right:20px;
+padding-left:20px;
+text-align: justify;
+}
+
+
+
+.top-left
+{
+	float:left;
+	padding-right:20px;
+	padding-bottom:20px;
+}
+
+a:hover{
+	color:blue;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+}
+
+
+
+img.foto2{
+	float:right;
+	padding-right:20px;
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+img.foto3{
+	float:left;
+	padding-right:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+img.foto4{
+	padding-right:20px;
+	float:left;
+}
+
+img.foto5{
+	float:left;
+	padding-right:20px;
+}
+
+img.foto6{
+	float:right;
+	padding:20px;
+}
+
+img.foto7
+{
+	float:left;
+	padding:10px;
+}
+
+img.foto8
+{
+	float:left;
+	padding:15px;
+}
+
+img.foto9{
+	float:right;
+	padding:5px;
+}
+
+img.foto10{
+	float:left;
+	padding:10px;
+}
+
+img.foto12{
+	float:right;
+	padding:10px;
+}
